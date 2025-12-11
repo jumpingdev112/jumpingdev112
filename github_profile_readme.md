@@ -32,30 +32,68 @@ I'm a software engineer specializing in **web and mobile applications**, with a 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 - **React** — Component architecture, hooks, state management
 - **Vue** — Progressive framework, composition API, reactive systems
+- **Angular** — TypeScript-based framework, dependency injection, RxJS
+- **React Native** — Cross-platform mobile development, native performance
+- **jQuery** — DOM manipulation, event handling, legacy system support
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 - **NestJS** — Enterprise-grade Node.js framework, modular architecture
 - **Express** — Fast, minimalist web framework for APIs
+- **FastAPI** — High-performance Python API framework, async support
+- **Django** — Full-featured Python web framework, rapid development
+- **Laravel** — Elegant PHP framework, MVC architecture, artisan CLI
+- **.NET** — Enterprise-grade C# framework, cross-platform development
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+- **MongoDB** — NoSQL document database, flexible schema design
+- **PostgreSQL** — Advanced relational database, ACID compliance
+- **MySQL** — Popular relational database, high performance
+- **DynamoDB** — AWS NoSQL database, serverless scaling
+- **Azure SQL Database** — Managed SQL database, cloud-native solutions
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **CI/CD & Automation:**
-- GitHub Actions — Automated workflows, deployment pipelines
+- **GitHub Actions** — Automated workflows, deployment pipelines
+- **Jenkins** — Continuous integration, build automation
+- **GitLab CI/CD** — Integrated DevOps platform
 
 **Infrastructure & Deployment:**
 - **Nginx** — Reverse proxy, load balancing, static serving
-- **AWS EC2** — Virtual server management, scaling
 - **Docker** — Containerization, microservices architecture
+- **Kubernetes** — Container orchestration, scaling, management
+- **Terraform** — Infrastructure as Code (IaC), multi-cloud provisioning
+
+**Cloud Platforms:**
+- **AWS EC2** — Virtual server management, scaling
+- **Azure** — Cloud services, virtual machines, app services
 
 **AWS Services:**
 - **Compute:** Lambda (serverless functions)
@@ -91,11 +129,12 @@ I'm a software engineer specializing in **web and mobile applications**, with a 
 
 I've delivered solutions across diverse sectors, each with unique challenges and requirements:
 
-- **🏥 Healthcare** — HIPAA-compliant systems, patient data management
 - **☁️ SaaS** — Multi-tenant architectures, subscription platforms
 - **📊 CRM** — Customer relationship management, data integration
 - **💳 Fintech** — Secure financial transactions, compliance systems
 - **🛒 E-commerce** — High-traffic platforms, payment processing
+- **🏥 Healthcare** — HIPAA-compliant systems, patient data management
+- **📚 EdTech** — E-learning platforms, adaptive content delivery
 
 ---
 
